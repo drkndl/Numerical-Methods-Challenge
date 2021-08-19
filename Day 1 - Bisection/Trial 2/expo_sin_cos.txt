@@ -1,0 +1,4 @@
+Enter a continuous function in x: e^(-x)*(3.2*sin(x) - 0.5*cos(x))
+Enter the range with a space in between the two numbers: 3 4
+Enter the max allowable tolerance: 0.00001
+The root by bisection method:  3.297

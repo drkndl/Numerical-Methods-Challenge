@@ -1,0 +1,4 @@
+Enter a continuous function in x: x - tan(x)
+Enter an initial guess for the root: 4.6
+Enter the maximum permissible error of the root: 0.0001
+The root of x - tan(x) by Newton-Raphson method: 4.493

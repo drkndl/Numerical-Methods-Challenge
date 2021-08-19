@@ -1,0 +1,4 @@
+Enter a continuous function in x: cos(x) - x^3
+Enter an initial guess for the root: 0.5
+Enter the maximum permissible error of the root: 0.0001
+The root of cos(x) - x^3 by Newton-Raphson method: 0.865

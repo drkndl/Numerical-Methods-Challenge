@@ -1,0 +1,4 @@
+Enter a continuous function in x: x*e^x - 3
+Enter the range with a space in between the two numbers: 1 2
+Enter the max allowable tolerance: 0.001
+The root by regula falsi method:  1.049

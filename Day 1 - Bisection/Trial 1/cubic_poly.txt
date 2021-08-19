@@ -1,0 +1,9 @@
+Inputs:
+
+expr = "x^3 - x - 2"
+a, b = 1, 2
+error = 0.001
+
+Output:
+
+The root by bisection method:  1.521
